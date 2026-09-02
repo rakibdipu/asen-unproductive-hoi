@@ -1,0 +1,2282 @@
+[
+  {
+    "item_id":"mov_0001",
+    "title":"Inception",
+    "primary_genre":"Sci-Fi",
+    "secondary_genre":"Drama",
+    "release_year":2010,
+    "rating":8.8,
+    "director":"Christopher Nolan",
+    "duration_min":109,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1568605117036-5fe5e7bab0b7?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1494774157365-9e04c6720e47?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg"
+    },
+    "tags":"Sci-Fi,Christopher_Nolan,2010",
+    "description":"Critically acclaimed Sci-Fi film directed by Christopher Nolan (2010). Rated 8.8\/10."
+  },
+  {
+    "item_id":"mov_0002",
+    "title":"Interstellar",
+    "primary_genre":"Sci-Fi",
+    "secondary_genre":"Drama",
+    "release_year":2014,
+    "rating":8.7,
+    "director":"Christopher Nolan",
+    "duration_min":98,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1534447677768-be436bb09401?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1492691527719-9d1e07e534b4?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1515934751635-c81c6bc9a2d8?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg"
+    },
+    "tags":"Sci-Fi,Christopher_Nolan,2014",
+    "description":"Critically acclaimed Sci-Fi film directed by Christopher Nolan (2014). Rated 8.7\/10."
+  },
+  {
+    "item_id":"mov_0003",
+    "title":"The Dark Knight",
+    "primary_genre":"Action",
+    "secondary_genre":"Drama",
+    "release_year":2008,
+    "rating":9.0,
+    "director":"Christopher Nolan",
+    "duration_min":130,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1563245372-f21724e3856d?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1594909122845-11baa439b7bf?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1529333166437-7750a6dd5a70?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
+    },
+    "tags":"Action,Christopher_Nolan,2008",
+    "description":"Critically acclaimed Action film directed by Christopher Nolan (2008). Rated 9.0\/10."
+  },
+  {
+    "item_id":"mov_0004",
+    "title":"Pulp Fiction",
+    "primary_genre":"Crime",
+    "secondary_genre":"Drama",
+    "release_year":1994,
+    "rating":8.9,
+    "director":"Quentin Tarantino",
+    "duration_min":126,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1509198397868-475647b2a1e5?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1514565131-fce0801e5785?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1511285560929-80b456fea0bc?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg"
+    },
+    "tags":"Crime,Quentin_Tarantino,1994",
+    "description":"Critically acclaimed Crime film directed by Quentin Tarantino (1994). Rated 8.9\/10."
+  },
+  {
+    "item_id":"mov_0005",
+    "title":"Spirited Away",
+    "primary_genre":"Animation",
+    "secondary_genre":"Drama",
+    "release_year":2001,
+    "rating":8.6,
+    "director":"Hayao Miyazaki",
+    "duration_min":123,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1552519507-da3b142c6e3d?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1474552226712-ac0f0961a954?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg"
+    },
+    "tags":"Animation,Hayao_Miyazaki,2001",
+    "description":"Critically acclaimed Animation film directed by Hayao Miyazaki (2001). Rated 8.6\/10."
+  },
+  {
+    "item_id":"mov_0006",
+    "title":"Parasite",
+    "primary_genre":"Thriller",
+    "secondary_genre":"Drama",
+    "release_year":2019,
+    "rating":8.5,
+    "director":"Bong Joon-ho",
+    "duration_min":112,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1519074069444-1ba4ea16e60b?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1492691527719-9d1e07e534b4?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1516575334481-f85287c2c82d?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg"
+    },
+    "tags":"Thriller,Bong_Joon-ho,2019",
+    "description":"Critically acclaimed Thriller film directed by Bong Joon-ho (2019). Rated 8.5\/10."
+  },
+  {
+    "item_id":"mov_0007",
+    "title":"Dune: Part Two",
+    "primary_genre":"Sci-Fi",
+    "secondary_genre":"Drama",
+    "release_year":2024,
+    "rating":8.7,
+    "director":"Denis Villeneuve",
+    "duration_min":108,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1533488765986-dfa2a9939acd?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1594909122845-11baa439b7bf?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1534528741775-53994a69daeb?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg"
+    },
+    "tags":"Sci-Fi,Denis_Villeneuve,2024",
+    "description":"Critically acclaimed Sci-Fi film directed by Denis Villeneuve (2024). Rated 8.7\/10."
+  },
+  {
+    "item_id":"mov_0008",
+    "title":"Oppenheimer",
+    "primary_genre":"Drama",
+    "secondary_genre":"Thriller",
+    "release_year":2023,
+    "rating":8.9,
+    "director":"Christopher Nolan",
+    "duration_min":164,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1536240478700-b869070f9279?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1514565131-fce0801e5785?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1516589178581-6cd7833ae3b2?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg"
+    },
+    "tags":"Drama,Christopher_Nolan,2023",
+    "description":"Critically acclaimed Drama film directed by Christopher Nolan (2023). Rated 8.9\/10."
+  },
+  {
+    "item_id":"mov_0009",
+    "title":"The Matrix",
+    "primary_genre":"Sci-Fi",
+    "secondary_genre":"Drama",
+    "release_year":1999,
+    "rating":8.7,
+    "director":"The Wachowskis",
+    "duration_min":106,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1541701494587-cb58502866ab?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1518199266791-5375a83190b7?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg"
+    },
+    "tags":"Sci-Fi,The_Wachowskis,1999",
+    "description":"Critically acclaimed Sci-Fi film directed by The Wachowskis (1999). Rated 8.7\/10."
+  },
+  {
+    "item_id":"mov_0010",
+    "title":"Fight Club",
+    "primary_genre":"Drama",
+    "secondary_genre":"Thriller",
+    "release_year":1999,
+    "rating":8.8,
+    "director":"David Fincher",
+    "duration_min":170,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1517457373958-b7bdd4587205?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1492691527719-9d1e07e534b4?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1494774157365-9e04c6720e47?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg"
+    },
+    "tags":"Drama,David_Fincher,1999",
+    "description":"Critically acclaimed Drama film directed by David Fincher (1999). Rated 8.8\/10."
+  },
+  {
+    "item_id":"mov_0011",
+    "title":"Goodfellas",
+    "primary_genre":"Crime",
+    "secondary_genre":"Drama",
+    "release_year":1990,
+    "rating":8.7,
+    "director":"Martin Scorsese",
+    "duration_min":149,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1568605117036-5fe5e7bab0b7?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1594909122845-11baa439b7bf?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1515934751635-c81c6bc9a2d8?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg"
+    },
+    "tags":"Crime,Martin_Scorsese,1990",
+    "description":"Critically acclaimed Crime film directed by Martin Scorsese (1990). Rated 8.7\/10."
+  },
+  {
+    "item_id":"mov_0012",
+    "title":"The Shawshank Redemption",
+    "primary_genre":"Drama",
+    "secondary_genre":"Thriller",
+    "release_year":1994,
+    "rating":9.3,
+    "director":"Frank Darabont",
+    "duration_min":99,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1534447677768-be436bb09401?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1514565131-fce0801e5785?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1529333166437-7750a6dd5a70?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg"
+    },
+    "tags":"Drama,Frank_Darabont,1994",
+    "description":"Critically acclaimed Drama film directed by Frank Darabont (1994). Rated 9.3\/10."
+  },
+  {
+    "item_id":"mov_0013",
+    "title":"Whiplash",
+    "primary_genre":"Drama",
+    "secondary_genre":"Thriller",
+    "release_year":2014,
+    "rating":8.5,
+    "director":"Damien Chazelle",
+    "duration_min":98,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/7fn624j5lj3xTme2SgiLCeuedmO.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1563245372-f21724e3856d?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1511285560929-80b456fea0bc?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/7fn624j5lj3xTme2SgiLCeuedmO.jpg"
+    },
+    "tags":"Drama,Damien_Chazelle,2014",
+    "description":"Critically acclaimed Drama film directed by Damien Chazelle (2014). Rated 8.5\/10."
+  },
+  {
+    "item_id":"mov_0014",
+    "title":"Blade Runner 2049",
+    "primary_genre":"Sci-Fi",
+    "secondary_genre":"Drama",
+    "release_year":2017,
+    "rating":8.0,
+    "director":"Denis Villeneuve",
+    "duration_min":106,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1509198397868-475647b2a1e5?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1492691527719-9d1e07e534b4?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1474552226712-ac0f0961a954?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg"
+    },
+    "tags":"Sci-Fi,Denis_Villeneuve,2017",
+    "description":"Critically acclaimed Sci-Fi film directed by Denis Villeneuve (2017). Rated 8.0\/10."
+  },
+  {
+    "item_id":"mov_0015",
+    "title":"Spider-Man: Across the Spider-Verse",
+    "primary_genre":"Animation",
+    "secondary_genre":"Drama",
+    "release_year":2023,
+    "rating":8.7,
+    "director":"Joaquim Dos Santos",
+    "duration_min":122,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1552519507-da3b142c6e3d?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1594909122845-11baa439b7bf?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1516575334481-f85287c2c82d?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg"
+    },
+    "tags":"Animation,Joaquim_Dos_Santos,2023",
+    "description":"Critically acclaimed Animation film directed by Joaquim Dos Santos (2023). Rated 8.7\/10."
+  },
+  {
+    "item_id":"mov_0016",
+    "title":"Everything Everywhere All at Once",
+    "primary_genre":"Sci-Fi",
+    "secondary_genre":"Drama",
+    "release_year":2022,
+    "rating":7.8,
+    "director":"Daniel Kwan",
+    "duration_min":124,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/u68AjlvlutfEIcpmbYpKcdi09ut.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1519074069444-1ba4ea16e60b?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1514565131-fce0801e5785?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1534528741775-53994a69daeb?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/u68AjlvlutfEIcpmbYpKcdi09ut.jpg"
+    },
+    "tags":"Sci-Fi,Daniel_Kwan,2022",
+    "description":"Critically acclaimed Sci-Fi film directed by Daniel Kwan (2022). Rated 7.8\/10."
+  },
+  {
+    "item_id":"mov_0017",
+    "title":"Stranger Things: Season 4",
+    "primary_genre":"Sci-Fi",
+    "secondary_genre":"Drama",
+    "release_year":2022,
+    "rating":8.7,
+    "director":"The Duffer Brothers",
+    "duration_min":159,
+    "thumbnail_url":"https:\/\/images.unsplash.com\/photo-1506703719100-a0f3a48c0f86?w=600&q=80",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1533488765986-dfa2a9939acd?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1516589178581-6cd7833ae3b2?w=600&q=80",
+      "variant_cinematic":"https:\/\/images.unsplash.com\/photo-1506703719100-a0f3a48c0f86?w=600&q=80"
+    },
+    "tags":"Sci-Fi,The_Duffer_Brothers,2022",
+    "description":"Critically acclaimed Sci-Fi film directed by The Duffer Brothers (2022). Rated 8.7\/10."
+  },
+  {
+    "item_id":"mov_0018",
+    "title":"Squid Game",
+    "primary_genre":"Thriller",
+    "secondary_genre":"Drama",
+    "release_year":2021,
+    "rating":8.0,
+    "director":"Hwang Dong-hyuk",
+    "duration_min":172,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/yQGaui0bQ5Ai3KIFBB45nTeIqad.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1536240478700-b869070f9279?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1492691527719-9d1e07e534b4?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1518199266791-5375a83190b7?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/yQGaui0bQ5Ai3KIFBB45nTeIqad.jpg"
+    },
+    "tags":"Thriller,Hwang_Dong-hyuk,2021",
+    "description":"Critically acclaimed Thriller film directed by Hwang Dong-hyuk (2021). Rated 8.0\/10."
+  },
+  {
+    "item_id":"mov_0019",
+    "title":"Cyberpunk: Edgerunners",
+    "primary_genre":"Animation",
+    "secondary_genre":"Drama",
+    "release_year":2022,
+    "rating":8.3,
+    "director":"Hiroyuki Imaishi",
+    "duration_min":98,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/lqcDVZ8pyk08AVftMBildDR3QUK.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1541701494587-cb58502866ab?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1594909122845-11baa439b7bf?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1494774157365-9e04c6720e47?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/lqcDVZ8pyk08AVftMBildDR3QUK.jpg"
+    },
+    "tags":"Animation,Hiroyuki_Imaishi,2022",
+    "description":"Critically acclaimed Animation film directed by Hiroyuki Imaishi (2022). Rated 8.3\/10."
+  },
+  {
+    "item_id":"mov_0020",
+    "title":"Severance",
+    "primary_genre":"Thriller",
+    "secondary_genre":"Drama",
+    "release_year":2022,
+    "rating":8.7,
+    "director":"Ben Stiller",
+    "duration_min":166,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/yg1XRTyH5knwh3Tnij2sUV0ZZ5w.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1517457373958-b7bdd4587205?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1514565131-fce0801e5785?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1515934751635-c81c6bc9a2d8?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/yg1XRTyH5knwh3Tnij2sUV0ZZ5w.jpg"
+    },
+    "tags":"Thriller,Ben_Stiller,2022",
+    "description":"Critically acclaimed Thriller film directed by Ben Stiller (2022). Rated 8.7\/10."
+  },
+  {
+    "item_id":"mov_0021",
+    "title":"The Godfather",
+    "primary_genre":"Crime",
+    "secondary_genre":"Drama",
+    "release_year":1972,
+    "rating":9.2,
+    "director":"Francis Ford Coppola",
+    "duration_min":120,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1568605117036-5fe5e7bab0b7?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1529333166437-7750a6dd5a70?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/3bhkrj58Vtu7enYsRolD1fZdja1.jpg"
+    },
+    "tags":"Crime,Francis_Ford_Coppola,1972",
+    "description":"Critically acclaimed Crime film directed by Francis Ford Coppola (1972). Rated 9.2\/10."
+  },
+  {
+    "item_id":"mov_0022",
+    "title":"Gladiator",
+    "primary_genre":"Action",
+    "secondary_genre":"Drama",
+    "release_year":2000,
+    "rating":8.5,
+    "director":"Ridley Scott",
+    "duration_min":164,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/wN2xWp1eIwCKOD0BHTcErTBv1Uq.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1534447677768-be436bb09401?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1492691527719-9d1e07e534b4?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1511285560929-80b456fea0bc?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/wN2xWp1eIwCKOD0BHTcErTBv1Uq.jpg"
+    },
+    "tags":"Action,Ridley_Scott,2000",
+    "description":"Critically acclaimed Action film directed by Ridley Scott (2000). Rated 8.5\/10."
+  },
+  {
+    "item_id":"mov_0023",
+    "title":"Alien",
+    "primary_genre":"Horror",
+    "secondary_genre":"Drama",
+    "release_year":1979,
+    "rating":8.5,
+    "director":"Ridley Scott",
+    "duration_min":148,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1563245372-f21724e3856d?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1594909122845-11baa439b7bf?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1474552226712-ac0f0961a954?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg"
+    },
+    "tags":"Horror,Ridley_Scott,1979",
+    "description":"Critically acclaimed Horror film directed by Ridley Scott (1979). Rated 8.5\/10."
+  },
+  {
+    "item_id":"mov_0024",
+    "title":"Jurassic Park",
+    "primary_genre":"Sci-Fi",
+    "secondary_genre":"Drama",
+    "release_year":1993,
+    "rating":8.2,
+    "director":"Steven Spielberg",
+    "duration_min":123,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/63viWuPfYQjRYLSZSZNq7dglJP5.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1509198397868-475647b2a1e5?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1514565131-fce0801e5785?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1516575334481-f85287c2c82d?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/63viWuPfYQjRYLSZSZNq7dglJP5.jpg"
+    },
+    "tags":"Sci-Fi,Steven_Spielberg,1993",
+    "description":"Critically acclaimed Sci-Fi film directed by Steven Spielberg (1993). Rated 8.2\/10."
+  },
+  {
+    "item_id":"mov_0025",
+    "title":"Forrest Gump",
+    "primary_genre":"Drama",
+    "secondary_genre":"Thriller",
+    "release_year":1994,
+    "rating":8.8,
+    "director":"Robert Zemeckis",
+    "duration_min":152,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/Cw4hIUIAmSYfK9QfaUW5igp9La.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1552519507-da3b142c6e3d?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1534528741775-53994a69daeb?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/Cw4hIUIAmSYfK9QfaUW5igp9La.jpg"
+    },
+    "tags":"Drama,Robert_Zemeckis,1994",
+    "description":"Critically acclaimed Drama film directed by Robert Zemeckis (1994). Rated 8.8\/10."
+  },
+  {
+    "item_id":"mov_0026",
+    "title":"The Prestige",
+    "primary_genre":"Mystery",
+    "secondary_genre":"Drama",
+    "release_year":2006,
+    "rating":8.5,
+    "director":"Christopher Nolan",
+    "duration_min":170,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/Ag2B2KHKQPukjH7WutmgnnSNurZ.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1519074069444-1ba4ea16e60b?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1492691527719-9d1e07e534b4?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1516589178581-6cd7833ae3b2?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/Ag2B2KHKQPukjH7WutmgnnSNurZ.jpg"
+    },
+    "tags":"Mystery,Christopher_Nolan,2006",
+    "description":"Critically acclaimed Mystery film directed by Christopher Nolan (2006). Rated 8.5\/10."
+  },
+  {
+    "item_id":"mov_0027",
+    "title":"Shutter Island",
+    "primary_genre":"Thriller",
+    "secondary_genre":"Drama",
+    "release_year":2010,
+    "rating":8.2,
+    "director":"Martin Scorsese",
+    "duration_min":130,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/nrmXQ0zcZUL8jFLrakWc90IR8z9.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1533488765986-dfa2a9939acd?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1594909122845-11baa439b7bf?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1518199266791-5375a83190b7?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/nrmXQ0zcZUL8jFLrakWc90IR8z9.jpg"
+    },
+    "tags":"Thriller,Martin_Scorsese,2010",
+    "description":"Critically acclaimed Thriller film directed by Martin Scorsese (2010). Rated 8.2\/10."
+  },
+  {
+    "item_id":"mov_0028",
+    "title":"Joker",
+    "primary_genre":"Crime",
+    "secondary_genre":"Drama",
+    "release_year":2019,
+    "rating":8.4,
+    "director":"Todd Phillips",
+    "duration_min":95,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1536240478700-b869070f9279?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1514565131-fce0801e5785?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1494774157365-9e04c6720e47?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg"
+    },
+    "tags":"Crime,Todd_Phillips,2019",
+    "description":"Critically acclaimed Crime film directed by Todd Phillips (2019). Rated 8.4\/10."
+  },
+  {
+    "item_id":"mov_0029",
+    "title":"Avengers: Endgame",
+    "primary_genre":"Action",
+    "secondary_genre":"Drama",
+    "release_year":2019,
+    "rating":8.4,
+    "director":"Anthony & Joe Russo",
+    "duration_min":115,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1541701494587-cb58502866ab?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1515934751635-c81c6bc9a2d8?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg"
+    },
+    "tags":"Action,Anthony_&_Joe_Russo,2019",
+    "description":"Critically acclaimed Action film directed by Anthony & Joe Russo (2019). Rated 8.4\/10."
+  },
+  {
+    "item_id":"mov_0030",
+    "title":"Star Wars: The Empire Strikes Back",
+    "primary_genre":"Sci-Fi",
+    "secondary_genre":"Drama",
+    "release_year":1980,
+    "rating":8.7,
+    "director":"Irvin Kershner",
+    "duration_min":149,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1517457373958-b7bdd4587205?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1492691527719-9d1e07e534b4?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1529333166437-7750a6dd5a70?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg"
+    },
+    "tags":"Sci-Fi,Irvin_Kershner,1980",
+    "description":"Critically acclaimed Sci-Fi film directed by Irvin Kershner (1980). Rated 8.7\/10."
+  },
+  {
+    "item_id":"mov_0031",
+    "title":"The Lord of the Rings: Return of the King",
+    "primary_genre":"Fantasy",
+    "secondary_genre":"Drama",
+    "release_year":2003,
+    "rating":9.0,
+    "director":"Peter Jackson",
+    "duration_min":138,
+    "thumbnail_url":"https:\/\/images.unsplash.com\/photo-1550684847-75bdda21cc95?w=600&q=80",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1568605117036-5fe5e7bab0b7?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1594909122845-11baa439b7bf?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1511285560929-80b456fea0bc?w=600&q=80",
+      "variant_cinematic":"https:\/\/images.unsplash.com\/photo-1550684847-75bdda21cc95?w=600&q=80"
+    },
+    "tags":"Fantasy,Peter_Jackson,2003",
+    "description":"Critically acclaimed Fantasy film directed by Peter Jackson (2003). Rated 9.0\/10."
+  },
+  {
+    "item_id":"mov_0032",
+    "title":"Back to the Future",
+    "primary_genre":"Sci-Fi",
+    "secondary_genre":"Drama",
+    "release_year":1985,
+    "rating":8.5,
+    "director":"Robert Zemeckis",
+    "duration_min":130,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1534447677768-be436bb09401?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1514565131-fce0801e5785?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1474552226712-ac0f0961a954?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg"
+    },
+    "tags":"Sci-Fi,Robert_Zemeckis,1985",
+    "description":"Critically acclaimed Sci-Fi film directed by Robert Zemeckis (1985). Rated 8.5\/10."
+  },
+  {
+    "item_id":"mov_0033",
+    "title":"Mad Max: Fury Road",
+    "primary_genre":"Action",
+    "secondary_genre":"Drama",
+    "release_year":2015,
+    "rating":8.1,
+    "director":"George Miller",
+    "duration_min":114,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/ulcAi4dKpAjHwYGS08vNyx9H6I9.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1563245372-f21724e3856d?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1516575334481-f85287c2c82d?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/ulcAi4dKpAjHwYGS08vNyx9H6I9.jpg"
+    },
+    "tags":"Action,George_Miller,2015",
+    "description":"Critically acclaimed Action film directed by George Miller (2015). Rated 8.1\/10."
+  },
+  {
+    "item_id":"mov_0034",
+    "title":"Akira",
+    "primary_genre":"Animation",
+    "secondary_genre":"Drama",
+    "release_year":1988,
+    "rating":8.0,
+    "director":"Katsuhiro Otomo",
+    "duration_min":122,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1509198397868-475647b2a1e5?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1492691527719-9d1e07e534b4?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1534528741775-53994a69daeb?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg"
+    },
+    "tags":"Animation,Katsuhiro_Otomo,1988",
+    "description":"Critically acclaimed Animation film directed by Katsuhiro Otomo (1988). Rated 8.0\/10."
+  },
+  {
+    "item_id":"mov_0035",
+    "title":"Your Name",
+    "primary_genre":"Animation",
+    "secondary_genre":"Drama",
+    "release_year":2016,
+    "rating":8.4,
+    "director":"Makoto Shinkai",
+    "duration_min":138,
+    "thumbnail_url":"https:\/\/images.unsplash.com\/photo-1579783900882-c0d3dad7b119?w=600&q=80",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1552519507-da3b142c6e3d?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1594909122845-11baa439b7bf?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1516589178581-6cd7833ae3b2?w=600&q=80",
+      "variant_cinematic":"https:\/\/images.unsplash.com\/photo-1579783900882-c0d3dad7b119?w=600&q=80"
+    },
+    "tags":"Animation,Makoto_Shinkai,2016",
+    "description":"Critically acclaimed Animation film directed by Makoto Shinkai (2016). Rated 8.4\/10."
+  },
+  {
+    "item_id":"mov_0036",
+    "title":"Princess Mononoke",
+    "primary_genre":"Animation",
+    "secondary_genre":"Drama",
+    "release_year":1997,
+    "rating":8.4,
+    "director":"Hayao Miyazaki",
+    "duration_min":108,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/cMYCDADoLKLbB83g4WnJegaZimC.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1519074069444-1ba4ea16e60b?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1514565131-fce0801e5785?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1518199266791-5375a83190b7?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/cMYCDADoLKLbB83g4WnJegaZimC.jpg"
+    },
+    "tags":"Animation,Hayao_Miyazaki,1997",
+    "description":"Critically acclaimed Animation film directed by Hayao Miyazaki (1997). Rated 8.4\/10."
+  },
+  {
+    "item_id":"mov_0037",
+    "title":"Taxi Driver",
+    "primary_genre":"Crime",
+    "secondary_genre":"Drama",
+    "release_year":1976,
+    "rating":8.2,
+    "director":"Martin Scorsese",
+    "duration_min":106,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1533488765986-dfa2a9939acd?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1494774157365-9e04c6720e47?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/ekstpH614fwDX8DUln1a2Opz0N8.jpg"
+    },
+    "tags":"Crime,Martin_Scorsese,1976",
+    "description":"Critically acclaimed Crime film directed by Martin Scorsese (1976). Rated 8.2\/10."
+  },
+  {
+    "item_id":"mov_0038",
+    "title":"Se7en",
+    "primary_genre":"Crime",
+    "secondary_genre":"Drama",
+    "release_year":1995,
+    "rating":8.6,
+    "director":"David Fincher",
+    "duration_min":143,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1536240478700-b869070f9279?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1492691527719-9d1e07e534b4?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1515934751635-c81c6bc9a2d8?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg"
+    },
+    "tags":"Crime,David_Fincher,1995",
+    "description":"Critically acclaimed Crime film directed by David Fincher (1995). Rated 8.6\/10."
+  },
+  {
+    "item_id":"mov_0039",
+    "title":"The Silence of the Lambs",
+    "primary_genre":"Thriller",
+    "secondary_genre":"Drama",
+    "release_year":1991,
+    "rating":8.6,
+    "director":"Jonathan Demme",
+    "duration_min":107,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1541701494587-cb58502866ab?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1594909122845-11baa439b7bf?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1529333166437-7750a6dd5a70?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg"
+    },
+    "tags":"Thriller,Jonathan_Demme,1991",
+    "description":"Critically acclaimed Thriller film directed by Jonathan Demme (1991). Rated 8.6\/10."
+  },
+  {
+    "item_id":"mov_0040",
+    "title":"No Country for Old Men",
+    "primary_genre":"Crime",
+    "secondary_genre":"Drama",
+    "release_year":2007,
+    "rating":8.2,
+    "director":"Ethan & Joel Coen",
+    "duration_min":140,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/6d5XOczc226jECq0LIX0siKtgHR.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1517457373958-b7bdd4587205?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1514565131-fce0801e5785?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1511285560929-80b456fea0bc?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/6d5XOczc226jECq0LIX0siKtgHR.jpg"
+    },
+    "tags":"Crime,Ethan_&_Joel_Coen,2007",
+    "description":"Critically acclaimed Crime film directed by Ethan & Joel Coen (2007). Rated 8.2\/10."
+  },
+  {
+    "item_id":"mov_0041",
+    "title":"Django Unchained",
+    "primary_genre":"Western",
+    "secondary_genre":"Drama",
+    "release_year":2012,
+    "rating":8.5,
+    "director":"Quentin Tarantino",
+    "duration_min":139,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1568605117036-5fe5e7bab0b7?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1474552226712-ac0f0961a954?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg"
+    },
+    "tags":"Western,Quentin_Tarantino,2012",
+    "description":"Critically acclaimed Western film directed by Quentin Tarantino (2012). Rated 8.5\/10."
+  },
+  {
+    "item_id":"mov_0042",
+    "title":"Inglourious Basterds",
+    "primary_genre":"War",
+    "secondary_genre":"Drama",
+    "release_year":2009,
+    "rating":8.4,
+    "director":"Quentin Tarantino",
+    "duration_min":172,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/aupnPtagH9JVBuMrGEanf4iqXEQ.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1534447677768-be436bb09401?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1492691527719-9d1e07e534b4?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1516575334481-f85287c2c82d?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/aupnPtagH9JVBuMrGEanf4iqXEQ.jpg"
+    },
+    "tags":"War,Quentin_Tarantino,2009",
+    "description":"Critically acclaimed War film directed by Quentin Tarantino (2009). Rated 8.4\/10."
+  },
+  {
+    "item_id":"mov_0043",
+    "title":"The Wolf of Wall Street",
+    "primary_genre":"Comedy",
+    "secondary_genre":"Drama",
+    "release_year":2013,
+    "rating":8.2,
+    "director":"Martin Scorsese",
+    "duration_min":128,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1563245372-f21724e3856d?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1594909122845-11baa439b7bf?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1534528741775-53994a69daeb?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg"
+    },
+    "tags":"Comedy,Martin_Scorsese,2013",
+    "description":"Critically acclaimed Comedy film directed by Martin Scorsese (2013). Rated 8.2\/10."
+  },
+  {
+    "item_id":"mov_0044",
+    "title":"Titanic",
+    "primary_genre":"Romance",
+    "secondary_genre":"Drama",
+    "release_year":1997,
+    "rating":7.9,
+    "director":"James Cameron",
+    "duration_min":100,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1509198397868-475647b2a1e5?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1514565131-fce0801e5785?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1516589178581-6cd7833ae3b2?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg"
+    },
+    "tags":"Romance,James_Cameron,1997",
+    "description":"Critically acclaimed Romance film directed by James Cameron (1997). Rated 7.9\/10."
+  },
+  {
+    "item_id":"mov_0045",
+    "title":"La La Land",
+    "primary_genre":"Romance",
+    "secondary_genre":"Drama",
+    "release_year":2016,
+    "rating":8.0,
+    "director":"Damien Chazelle",
+    "duration_min":153,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1552519507-da3b142c6e3d?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1518199266791-5375a83190b7?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg"
+    },
+    "tags":"Romance,Damien_Chazelle,2016",
+    "description":"Critically acclaimed Romance film directed by Damien Chazelle (2016). Rated 8.0\/10."
+  },
+  {
+    "item_id":"mov_0046",
+    "title":"Her",
+    "primary_genre":"Romance",
+    "secondary_genre":"Drama",
+    "release_year":2013,
+    "rating":8.0,
+    "director":"Spike Jonze",
+    "duration_min":163,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/eCOtqtfvn7mxGl6nfmq4b1exJRc.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1519074069444-1ba4ea16e60b?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1492691527719-9d1e07e534b4?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1494774157365-9e04c6720e47?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/eCOtqtfvn7mxGl6nfmq4b1exJRc.jpg"
+    },
+    "tags":"Romance,Spike_Jonze,2013",
+    "description":"Critically acclaimed Romance film directed by Spike Jonze (2013). Rated 8.0\/10."
+  },
+  {
+    "item_id":"mov_0047",
+    "title":"Eternal Sunshine of the Spotless Mind",
+    "primary_genre":"Romance",
+    "secondary_genre":"Drama",
+    "release_year":2004,
+    "rating":8.3,
+    "director":"Michel Gondry",
+    "duration_min":110,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1533488765986-dfa2a9939acd?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1594909122845-11baa439b7bf?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1515934751635-c81c6bc9a2d8?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg"
+    },
+    "tags":"Romance,Michel_Gondry,2004",
+    "description":"Critically acclaimed Romance film directed by Michel Gondry (2004). Rated 8.3\/10."
+  },
+  {
+    "item_id":"mov_0048",
+    "title":"Before Sunrise",
+    "primary_genre":"Romance",
+    "secondary_genre":"Drama",
+    "release_year":1995,
+    "rating":8.1,
+    "director":"Richard Linklater",
+    "duration_min":143,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/kf1Jb1c2JAOqjuzA3H4oDM263uB.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1536240478700-b869070f9279?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1514565131-fce0801e5785?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1529333166437-7750a6dd5a70?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/kf1Jb1c2JAOqjuzA3H4oDM263uB.jpg"
+    },
+    "tags":"Romance,Richard_Linklater,1995",
+    "description":"Critically acclaimed Romance film directed by Richard Linklater (1995). Rated 8.1\/10."
+  },
+  {
+    "item_id":"mov_0049",
+    "title":"Pride & Prejudice",
+    "primary_genre":"Romance",
+    "secondary_genre":"Drama",
+    "release_year":2005,
+    "rating":7.8,
+    "director":"Joe Wright",
+    "duration_min":105,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/o8UhmEbWPHmTUxP0lMuCoqNkbB3.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1541701494587-cb58502866ab?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1511285560929-80b456fea0bc?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/o8UhmEbWPHmTUxP0lMuCoqNkbB3.jpg"
+    },
+    "tags":"Romance,Joe_Wright,2005",
+    "description":"Critically acclaimed Romance film directed by Joe Wright (2005). Rated 7.8\/10."
+  },
+  {
+    "item_id":"mov_0050",
+    "title":"About Time",
+    "primary_genre":"Romance",
+    "secondary_genre":"Drama",
+    "release_year":2013,
+    "rating":7.8,
+    "director":"Richard Curtis",
+    "duration_min":165,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/ls6zswrOZVhCXQBh96DlbnLBajM.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1517457373958-b7bdd4587205?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1492691527719-9d1e07e534b4?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1474552226712-ac0f0961a954?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/ls6zswrOZVhCXQBh96DlbnLBajM.jpg"
+    },
+    "tags":"Romance,Richard_Curtis,2013",
+    "description":"Critically acclaimed Romance film directed by Richard Curtis (2013). Rated 7.8\/10."
+  },
+  {
+    "item_id":"mov_0051",
+    "title":"Coco",
+    "primary_genre":"Animation",
+    "secondary_genre":"Drama",
+    "release_year":2017,
+    "rating":8.4,
+    "director":"Lee Unkrich",
+    "duration_min":132,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1568605117036-5fe5e7bab0b7?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1594909122845-11baa439b7bf?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1516575334481-f85287c2c82d?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg"
+    },
+    "tags":"Animation,Lee_Unkrich,2017",
+    "description":"Critically acclaimed Animation film directed by Lee Unkrich (2017). Rated 8.4\/10."
+  },
+  {
+    "item_id":"mov_0052",
+    "title":"Toy Story",
+    "primary_genre":"Animation",
+    "secondary_genre":"Drama",
+    "release_year":1995,
+    "rating":8.3,
+    "director":"John Lasseter",
+    "duration_min":175,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1534447677768-be436bb09401?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1514565131-fce0801e5785?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1534528741775-53994a69daeb?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/sfQtVlIHljToOwYjhe21KPGzZWK.jpg"
+    },
+    "tags":"Animation,John_Lasseter,1995",
+    "description":"Critically acclaimed Animation film directed by John Lasseter (1995). Rated 8.3\/10."
+  },
+  {
+    "item_id":"mov_0053",
+    "title":"WALL-E",
+    "primary_genre":"Animation",
+    "secondary_genre":"Drama",
+    "release_year":2008,
+    "rating":8.4,
+    "director":"Andrew Stanton",
+    "duration_min":174,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/1OsdhvbLNLUJEi9vqQCyhAXsaRX.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1563245372-f21724e3856d?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1516589178581-6cd7833ae3b2?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/1OsdhvbLNLUJEi9vqQCyhAXsaRX.jpg"
+    },
+    "tags":"Animation,Andrew_Stanton,2008",
+    "description":"Critically acclaimed Animation film directed by Andrew Stanton (2008). Rated 8.4\/10."
+  },
+  {
+    "item_id":"mov_0054",
+    "title":"Up",
+    "primary_genre":"Animation",
+    "secondary_genre":"Drama",
+    "release_year":2009,
+    "rating":8.3,
+    "director":"Pete Docter",
+    "duration_min":141,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1509198397868-475647b2a1e5?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1492691527719-9d1e07e534b4?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1518199266791-5375a83190b7?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg"
+    },
+    "tags":"Animation,Pete_Docter,2009",
+    "description":"Critically acclaimed Animation film directed by Pete Docter (2009). Rated 8.3\/10."
+  },
+  {
+    "item_id":"mov_0055",
+    "title":"Ratatouille",
+    "primary_genre":"Animation",
+    "secondary_genre":"Drama",
+    "release_year":2007,
+    "rating":8.1,
+    "director":"Brad Bird",
+    "duration_min":168,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1552519507-da3b142c6e3d?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1594909122845-11baa439b7bf?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1494774157365-9e04c6720e47?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg"
+    },
+    "tags":"Animation,Brad_Bird,2007",
+    "description":"Critically acclaimed Animation film directed by Brad Bird (2007). Rated 8.1\/10."
+  },
+  {
+    "item_id":"mov_0056",
+    "title":"The Lion King",
+    "primary_genre":"Animation",
+    "secondary_genre":"Drama",
+    "release_year":1994,
+    "rating":8.5,
+    "director":"Roger Allers",
+    "duration_min":119,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1519074069444-1ba4ea16e60b?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1514565131-fce0801e5785?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1515934751635-c81c6bc9a2d8?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg"
+    },
+    "tags":"Animation,Roger_Allers,1994",
+    "description":"Critically acclaimed Animation film directed by Roger Allers (1994). Rated 8.5\/10."
+  },
+  {
+    "item_id":"mov_0057",
+    "title":"Top Gun: Maverick",
+    "primary_genre":"Action",
+    "secondary_genre":"Drama",
+    "release_year":2022,
+    "rating":8.3,
+    "director":"Joseph Kosinski",
+    "duration_min":103,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1533488765986-dfa2a9939acd?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1529333166437-7750a6dd5a70?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg"
+    },
+    "tags":"Action,Joseph_Kosinski,2022",
+    "description":"Critically acclaimed Action film directed by Joseph Kosinski (2022). Rated 8.3\/10."
+  },
+  {
+    "item_id":"mov_0058",
+    "title":"John Wick: Chapter 4",
+    "primary_genre":"Action",
+    "secondary_genre":"Drama",
+    "release_year":2023,
+    "rating":7.7,
+    "director":"Chad Stahelski",
+    "duration_min":100,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1536240478700-b869070f9279?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1492691527719-9d1e07e534b4?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1511285560929-80b456fea0bc?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg"
+    },
+    "tags":"Action,Chad_Stahelski,2023",
+    "description":"Critically acclaimed Action film directed by Chad Stahelski (2023). Rated 7.7\/10."
+  },
+  {
+    "item_id":"mov_0059",
+    "title":"Casino Royale",
+    "primary_genre":"Action",
+    "secondary_genre":"Drama",
+    "release_year":2006,
+    "rating":8.0,
+    "director":"Martin Campbell",
+    "duration_min":124,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1541701494587-cb58502866ab?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1594909122845-11baa439b7bf?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1474552226712-ac0f0961a954?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg"
+    },
+    "tags":"Action,Martin_Campbell,2006",
+    "description":"Critically acclaimed Action film directed by Martin Campbell (2006). Rated 8.0\/10."
+  },
+  {
+    "item_id":"mov_0060",
+    "title":"Mission: Impossible - Fallout",
+    "primary_genre":"Action",
+    "secondary_genre":"Drama",
+    "release_year":2018,
+    "rating":7.7,
+    "director":"Christopher McQuarrie",
+    "duration_min":132,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1517457373958-b7bdd4587205?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1514565131-fce0801e5785?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1516575334481-f85287c2c82d?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg"
+    },
+    "tags":"Action,Christopher_McQuarrie,2018",
+    "description":"Critically acclaimed Action film directed by Christopher McQuarrie (2018). Rated 7.7\/10."
+  },
+  {
+    "item_id":"mov_0061",
+    "title":"The Departed",
+    "primary_genre":"Crime",
+    "secondary_genre":"Drama",
+    "release_year":2006,
+    "rating":8.5,
+    "director":"Martin Scorsese",
+    "duration_min":105,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1568605117036-5fe5e7bab0b7?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1534528741775-53994a69daeb?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/nT97ifVT2J1yMQmeq20Qblg61T.jpg"
+    },
+    "tags":"Crime,Martin_Scorsese,2006",
+    "description":"Critically acclaimed Crime film directed by Martin Scorsese (2006). Rated 8.5\/10."
+  },
+  {
+    "item_id":"mov_0062",
+    "title":"Arrival",
+    "primary_genre":"Sci-Fi",
+    "secondary_genre":"Drama",
+    "release_year":2016,
+    "rating":7.9,
+    "director":"Denis Villeneuve",
+    "duration_min":124,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/pEzNVQfdzYDzVK0XqxERIw2x2se.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1534447677768-be436bb09401?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1492691527719-9d1e07e534b4?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1516589178581-6cd7833ae3b2?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/pEzNVQfdzYDzVK0XqxERIw2x2se.jpg"
+    },
+    "tags":"Sci-Fi,Denis_Villeneuve,2016",
+    "description":"Critically acclaimed Sci-Fi film directed by Denis Villeneuve (2016). Rated 7.9\/10."
+  },
+  {
+    "item_id":"mov_0063",
+    "title":"Drive",
+    "primary_genre":"Action",
+    "secondary_genre":"Drama",
+    "release_year":2011,
+    "rating":7.8,
+    "director":"Nicolas Winding Refn",
+    "duration_min":107,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/602vevIURmpDfzbnv5Ubi6wIkQm.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1563245372-f21724e3856d?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1594909122845-11baa439b7bf?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1518199266791-5375a83190b7?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/602vevIURmpDfzbnv5Ubi6wIkQm.jpg"
+    },
+    "tags":"Action,Nicolas_Winding_Refn,2011",
+    "description":"Critically acclaimed Action film directed by Nicolas Winding Refn (2011). Rated 7.8\/10."
+  },
+  {
+    "item_id":"mov_0064",
+    "title":"Nightcrawler",
+    "primary_genre":"Thriller",
+    "secondary_genre":"Drama",
+    "release_year":2014,
+    "rating":7.8,
+    "director":"Dan Gilroy",
+    "duration_min":143,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1509198397868-475647b2a1e5?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1514565131-fce0801e5785?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1494774157365-9e04c6720e47?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg"
+    },
+    "tags":"Thriller,Dan_Gilroy,2014",
+    "description":"Critically acclaimed Thriller film directed by Dan Gilroy (2014). Rated 7.8\/10."
+  },
+  {
+    "item_id":"mov_0065",
+    "title":"The Grand Budapest Hotel",
+    "primary_genre":"Comedy",
+    "secondary_genre":"Drama",
+    "release_year":2014,
+    "rating":8.1,
+    "director":"Wes Anderson",
+    "duration_min":130,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1552519507-da3b142c6e3d?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1515934751635-c81c6bc9a2d8?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg"
+    },
+    "tags":"Comedy,Wes_Anderson,2014",
+    "description":"Critically acclaimed Comedy film directed by Wes Anderson (2014). Rated 8.1\/10."
+  },
+  {
+    "item_id":"mov_0066",
+    "title":"The Social Network",
+    "primary_genre":"Drama",
+    "secondary_genre":"Thriller",
+    "release_year":2010,
+    "rating":7.8,
+    "director":"David Fincher",
+    "duration_min":153,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1519074069444-1ba4ea16e60b?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1492691527719-9d1e07e534b4?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1529333166437-7750a6dd5a70?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg"
+    },
+    "tags":"Drama,David_Fincher,2010",
+    "description":"Critically acclaimed Drama film directed by David Fincher (2010). Rated 7.8\/10."
+  },
+  {
+    "item_id":"mov_0067",
+    "title":"Knives Out",
+    "primary_genre":"Mystery",
+    "secondary_genre":"Drama",
+    "release_year":2019,
+    "rating":7.9,
+    "director":"Rian Johnson",
+    "duration_min":141,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1533488765986-dfa2a9939acd?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1594909122845-11baa439b7bf?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1511285560929-80b456fea0bc?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/pThyQovXQrw2m0s9x82twj48Jq4.jpg"
+    },
+    "tags":"Mystery,Rian_Johnson,2019",
+    "description":"Critically acclaimed Mystery film directed by Rian Johnson (2019). Rated 7.9\/10."
+  },
+  {
+    "item_id":"mov_0068",
+    "title":"1917",
+    "primary_genre":"War",
+    "secondary_genre":"Drama",
+    "release_year":2019,
+    "rating":8.2,
+    "director":"Sam Mendes",
+    "duration_min":115,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1536240478700-b869070f9279?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1514565131-fce0801e5785?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1474552226712-ac0f0961a954?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/iZf0KyrE25z1sage4SYFLCCrMi9.jpg"
+    },
+    "tags":"War,Sam_Mendes,2019",
+    "description":"Critically acclaimed War film directed by Sam Mendes (2019). Rated 8.2\/10."
+  },
+  {
+    "item_id":"mov_0069",
+    "title":"Ford v Ferrari",
+    "primary_genre":"Drama",
+    "secondary_genre":"Thriller",
+    "release_year":2019,
+    "rating":8.1,
+    "director":"James Mangold",
+    "duration_min":142,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1541701494587-cb58502866ab?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1516575334481-f85287c2c82d?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg"
+    },
+    "tags":"Drama,James_Mangold,2019",
+    "description":"Critically acclaimed Drama film directed by James Mangold (2019). Rated 8.1\/10."
+  },
+  {
+    "item_id":"mov_0070",
+    "title":"Get Out",
+    "primary_genre":"Horror",
+    "secondary_genre":"Drama",
+    "release_year":2017,
+    "rating":7.8,
+    "director":"Jordan Peele",
+    "duration_min":140,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1517457373958-b7bdd4587205?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1492691527719-9d1e07e534b4?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1534528741775-53994a69daeb?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg"
+    },
+    "tags":"Horror,Jordan_Peele,2017",
+    "description":"Critically acclaimed Horror film directed by Jordan Peele (2017). Rated 7.8\/10."
+  },
+  {
+    "item_id":"mov_0071",
+    "title":"Hereditary",
+    "primary_genre":"Horror",
+    "secondary_genre":"Drama",
+    "release_year":2018,
+    "rating":7.3,
+    "director":"Ari Aster",
+    "duration_min":121,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/4GFPuL14eXi66V96xBWY73Y9PfR.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1568605117036-5fe5e7bab0b7?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1594909122845-11baa439b7bf?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1516589178581-6cd7833ae3b2?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/4GFPuL14eXi66V96xBWY73Y9PfR.jpg"
+    },
+    "tags":"Horror,Ari_Aster,2018",
+    "description":"Critically acclaimed Horror film directed by Ari Aster (2018). Rated 7.3\/10."
+  },
+  {
+    "item_id":"mov_0072",
+    "title":"A Quiet Place",
+    "primary_genre":"Horror",
+    "secondary_genre":"Drama",
+    "release_year":2018,
+    "rating":7.5,
+    "director":"John Krasinski",
+    "duration_min":129,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/nAU74GmpUk7t5iklEp3bufwDq4n.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1534447677768-be436bb09401?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1514565131-fce0801e5785?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1518199266791-5375a83190b7?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/nAU74GmpUk7t5iklEp3bufwDq4n.jpg"
+    },
+    "tags":"Horror,John_Krasinski,2018",
+    "description":"Critically acclaimed Horror film directed by John Krasinski (2018). Rated 7.5\/10."
+  },
+  {
+    "item_id":"mov_0073",
+    "title":"The Shining",
+    "primary_genre":"Horror",
+    "secondary_genre":"Drama",
+    "release_year":1980,
+    "rating":8.4,
+    "director":"Stanley Kubrick",
+    "duration_min":104,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/uAR0AWqhQL1hQa69UDEbb2rE5Wx.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1563245372-f21724e3856d?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1494774157365-9e04c6720e47?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/uAR0AWqhQL1hQa69UDEbb2rE5Wx.jpg"
+    },
+    "tags":"Horror,Stanley_Kubrick,1980",
+    "description":"Critically acclaimed Horror film directed by Stanley Kubrick (1980). Rated 8.4\/10."
+  },
+  {
+    "item_id":"mov_0074",
+    "title":"Black Panther",
+    "primary_genre":"Action",
+    "secondary_genre":"Drama",
+    "release_year":2018,
+    "rating":7.3,
+    "director":"Ryan Coogler",
+    "duration_min":172,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1509198397868-475647b2a1e5?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1492691527719-9d1e07e534b4?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1515934751635-c81c6bc9a2d8?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/uxzzxijgPIY7slzFvMotPv8wjKA.jpg"
+    },
+    "tags":"Action,Ryan_Coogler,2018",
+    "description":"Critically acclaimed Action film directed by Ryan Coogler (2018). Rated 7.3\/10."
+  },
+  {
+    "item_id":"mov_0075",
+    "title":"Iron Man",
+    "primary_genre":"Action",
+    "secondary_genre":"Drama",
+    "release_year":2008,
+    "rating":7.9,
+    "director":"Jon Favreau",
+    "duration_min":116,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1552519507-da3b142c6e3d?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1594909122845-11baa439b7bf?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1529333166437-7750a6dd5a70?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/78lPtwv72eTNqFW9COBYI0dWDJa.jpg"
+    },
+    "tags":"Action,Jon_Favreau,2008",
+    "description":"Critically acclaimed Action film directed by Jon Favreau (2008). Rated 7.9\/10."
+  },
+  {
+    "item_id":"mov_0076",
+    "title":"Guardians of the Galaxy",
+    "primary_genre":"Sci-Fi",
+    "secondary_genre":"Drama",
+    "release_year":2014,
+    "rating":8.0,
+    "director":"James Gunn",
+    "duration_min":163,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1519074069444-1ba4ea16e60b?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1514565131-fce0801e5785?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1511285560929-80b456fea0bc?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg"
+    },
+    "tags":"Sci-Fi,James_Gunn,2014",
+    "description":"Critically acclaimed Sci-Fi film directed by James Gunn (2014). Rated 8.0\/10."
+  },
+  {
+    "item_id":"mov_0077",
+    "title":"Dune: Part One",
+    "primary_genre":"Sci-Fi",
+    "secondary_genre":"Drama",
+    "release_year":2021,
+    "rating":8.0,
+    "director":"Denis Villeneuve",
+    "duration_min":126,
+    "thumbnail_url":"https:\/\/images.unsplash.com\/photo-1506703719100-a0f3a48c0f86?w=600&q=80",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1533488765986-dfa2a9939acd?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1474552226712-ac0f0961a954?w=600&q=80",
+      "variant_cinematic":"https:\/\/images.unsplash.com\/photo-1506703719100-a0f3a48c0f86?w=600&q=80"
+    },
+    "tags":"Sci-Fi,Denis_Villeneuve,2021",
+    "description":"Critically acclaimed Sci-Fi film directed by Denis Villeneuve (2021). Rated 8.0\/10."
+  },
+  {
+    "item_id":"mov_0078",
+    "title":"Chernobyl",
+    "primary_genre":"Drama",
+    "secondary_genre":"Thriller",
+    "release_year":2019,
+    "rating":9.3,
+    "director":"Craig Mazin",
+    "duration_min":115,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/AmJLuHjxPdIJO6vmymeWADG6jK5.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1536240478700-b869070f9279?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1492691527719-9d1e07e534b4?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1516575334481-f85287c2c82d?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/AmJLuHjxPdIJO6vmymeWADG6jK5.jpg"
+    },
+    "tags":"Drama,Craig_Mazin,2019",
+    "description":"Critically acclaimed Drama film directed by Craig Mazin (2019). Rated 9.3\/10."
+  },
+  {
+    "item_id":"mov_0079",
+    "title":"The Last of Us",
+    "primary_genre":"Drama",
+    "secondary_genre":"Thriller",
+    "release_year":2023,
+    "rating":8.8,
+    "director":"Craig Mazin",
+    "duration_min":154,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/nter1KTaQjmkGCjvSu5u01FoecP.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1541701494587-cb58502866ab?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1594909122845-11baa439b7bf?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1534528741775-53994a69daeb?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/nter1KTaQjmkGCjvSu5u01FoecP.jpg"
+    },
+    "tags":"Drama,Craig_Mazin,2023",
+    "description":"Critically acclaimed Drama film directed by Craig Mazin (2023). Rated 8.8\/10."
+  },
+  {
+    "item_id":"mov_0080",
+    "title":"Succession",
+    "primary_genre":"Drama",
+    "secondary_genre":"Thriller",
+    "release_year":2023,
+    "rating":8.9,
+    "director":"Jesse Armstrong",
+    "duration_min":143,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/b57aiH6xUBFQTTQrKli0z3RpZJR.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1517457373958-b7bdd4587205?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1514565131-fce0801e5785?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1516589178581-6cd7833ae3b2?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/b57aiH6xUBFQTTQrKli0z3RpZJR.jpg"
+    },
+    "tags":"Drama,Jesse_Armstrong,2023",
+    "description":"Critically acclaimed Drama film directed by Jesse Armstrong (2023). Rated 8.9\/10."
+  },
+  {
+    "item_id":"mov_0081",
+    "title":"Breaking Bad",
+    "primary_genre":"Crime",
+    "secondary_genre":"Drama",
+    "release_year":2013,
+    "rating":9.5,
+    "director":"Vince Gilligan",
+    "duration_min":129,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/ePXuKdXZuJx8hHMNr2yM4jY2L7Z.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1568605117036-5fe5e7bab0b7?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1518199266791-5375a83190b7?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/ePXuKdXZuJx8hHMNr2yM4jY2L7Z.jpg"
+    },
+    "tags":"Crime,Vince_Gilligan,2013",
+    "description":"Critically acclaimed Crime film directed by Vince Gilligan (2013). Rated 9.5\/10."
+  },
+  {
+    "item_id":"mov_0082",
+    "title":"Better Call Saul",
+    "primary_genre":"Crime",
+    "secondary_genre":"Drama",
+    "release_year":2022,
+    "rating":9.0,
+    "director":"Peter Gould",
+    "duration_min":166,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/zjg4jpK1Wp2kiRvtt5ND0kznako.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1534447677768-be436bb09401?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1492691527719-9d1e07e534b4?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1494774157365-9e04c6720e47?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/zjg4jpK1Wp2kiRvtt5ND0kznako.jpg"
+    },
+    "tags":"Crime,Peter_Gould,2022",
+    "description":"Critically acclaimed Crime film directed by Peter Gould (2022). Rated 9.0\/10."
+  },
+  {
+    "item_id":"mov_0083",
+    "title":"Game of Thrones",
+    "primary_genre":"Fantasy",
+    "secondary_genre":"Drama",
+    "release_year":2019,
+    "rating":9.2,
+    "director":"David Benioff",
+    "duration_min":123,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/tVyKpOYDtKzs4SOYCbZn4YNFWHI.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1563245372-f21724e3856d?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1594909122845-11baa439b7bf?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1515934751635-c81c6bc9a2d8?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/tVyKpOYDtKzs4SOYCbZn4YNFWHI.jpg"
+    },
+    "tags":"Fantasy,David_Benioff,2019",
+    "description":"Critically acclaimed Fantasy film directed by David Benioff (2019). Rated 9.2\/10."
+  },
+  {
+    "item_id":"mov_0084",
+    "title":"House of the Dragon",
+    "primary_genre":"Fantasy",
+    "secondary_genre":"Drama",
+    "release_year":2024,
+    "rating":8.4,
+    "director":"Ryan J. Condal",
+    "duration_min":136,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/oTO2RAIyZuW44m6UMe0l6psTukC.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1509198397868-475647b2a1e5?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1514565131-fce0801e5785?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1529333166437-7750a6dd5a70?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/oTO2RAIyZuW44m6UMe0l6psTukC.jpg"
+    },
+    "tags":"Fantasy,Ryan_J._Condal,2024",
+    "description":"Critically acclaimed Fantasy film directed by Ryan J. Condal (2024). Rated 8.4\/10."
+  },
+  {
+    "item_id":"mov_0085",
+    "title":"Arcane: League of Legends",
+    "primary_genre":"Animation",
+    "secondary_genre":"Drama",
+    "release_year":2021,
+    "rating":9.0,
+    "director":"Christian Linke",
+    "duration_min":102,
+    "thumbnail_url":"https:\/\/images.unsplash.com\/photo-1550684848-fac1c5b4e853?w=600&q=80",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1552519507-da3b142c6e3d?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1511285560929-80b456fea0bc?w=600&q=80",
+      "variant_cinematic":"https:\/\/images.unsplash.com\/photo-1550684848-fac1c5b4e853?w=600&q=80"
+    },
+    "tags":"Animation,Christian_Linke,2021",
+    "description":"Critically acclaimed Animation film directed by Christian Linke (2021). Rated 9.0\/10."
+  },
+  {
+    "item_id":"mov_0086",
+    "title":"Ted Lasso",
+    "primary_genre":"Comedy",
+    "secondary_genre":"Drama",
+    "release_year":2023,
+    "rating":8.8,
+    "director":"Brendan Hunt",
+    "duration_min":124,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1519074069444-1ba4ea16e60b?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1492691527719-9d1e07e534b4?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1474552226712-ac0f0961a954?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg"
+    },
+    "tags":"Comedy,Brendan_Hunt,2023",
+    "description":"Critically acclaimed Comedy film directed by Brendan Hunt (2023). Rated 8.8\/10."
+  },
+  {
+    "item_id":"mov_0087",
+    "title":"The Bear",
+    "primary_genre":"Drama",
+    "secondary_genre":"Thriller",
+    "release_year":2023,
+    "rating":8.6,
+    "director":"Christopher Storer",
+    "duration_min":99,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1533488765986-dfa2a9939acd?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1594909122845-11baa439b7bf?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1516575334481-f85287c2c82d?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg"
+    },
+    "tags":"Drama,Christopher_Storer,2023",
+    "description":"Critically acclaimed Drama film directed by Christopher Storer (2023). Rated 8.6\/10."
+  },
+  {
+    "item_id":"mov_0088",
+    "title":"Peaky Blinders",
+    "primary_genre":"Crime",
+    "secondary_genre":"Drama",
+    "release_year":2022,
+    "rating":8.8,
+    "director":"Steven Knight",
+    "duration_min":135,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/gRMalasZEzsZi4w2VFuYusfSfqf.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1536240478700-b869070f9279?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1514565131-fce0801e5785?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1534528741775-53994a69daeb?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/gRMalasZEzsZi4w2VFuYusfSfqf.jpg"
+    },
+    "tags":"Crime,Steven_Knight,2022",
+    "description":"Critically acclaimed Crime film directed by Steven Knight (2022). Rated 8.8\/10."
+  },
+  {
+    "item_id":"mov_0089",
+    "title":"Fargo",
+    "primary_genre":"Crime",
+    "secondary_genre":"Drama",
+    "release_year":2024,
+    "rating":8.9,
+    "director":"Noah Hawley",
+    "duration_min":146,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/rt7cpEr1uP6RTZykBFhBTcRaKvG.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1541701494587-cb58502866ab?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1516589178581-6cd7833ae3b2?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/rt7cpEr1uP6RTZykBFhBTcRaKvG.jpg"
+    },
+    "tags":"Crime,Noah_Hawley,2024",
+    "description":"Critically acclaimed Crime film directed by Noah Hawley (2024). Rated 8.9\/10."
+  },
+  {
+    "item_id":"mov_0090",
+    "title":"True Detective",
+    "primary_genre":"Crime",
+    "secondary_genre":"Drama",
+    "release_year":2014,
+    "rating":8.9,
+    "director":"Nic Pizzolatto",
+    "duration_min":129,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/cZCaWFlAmvXIgpzRB8YfzCxnykC.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1517457373958-b7bdd4587205?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1492691527719-9d1e07e534b4?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1518199266791-5375a83190b7?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/cZCaWFlAmvXIgpzRB8YfzCxnykC.jpg"
+    },
+    "tags":"Crime,Nic_Pizzolatto,2014",
+    "description":"Critically acclaimed Crime film directed by Nic Pizzolatto (2014). Rated 8.9\/10."
+  },
+  {
+    "item_id":"mov_0091",
+    "title":"Mindhunter",
+    "primary_genre":"Crime",
+    "secondary_genre":"Drama",
+    "release_year":2019,
+    "rating":8.6,
+    "director":"Joe Penhall",
+    "duration_min":103,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/fbKE87mojpIETWepSbD5Qt741fp.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1568605117036-5fe5e7bab0b7?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1594909122845-11baa439b7bf?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1494774157365-9e04c6720e47?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/fbKE87mojpIETWepSbD5Qt741fp.jpg"
+    },
+    "tags":"Crime,Joe_Penhall,2019",
+    "description":"Critically acclaimed Crime film directed by Joe Penhall (2019). Rated 8.6\/10."
+  },
+  {
+    "item_id":"mov_0092",
+    "title":"Narcos",
+    "primary_genre":"Crime",
+    "secondary_genre":"Drama",
+    "release_year":2017,
+    "rating":8.8,
+    "director":"Chris Brancato",
+    "duration_min":122,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/lZenUR45Ka0uO7c92t9P3DQTvuz.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1534447677768-be436bb09401?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1514565131-fce0801e5785?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1515934751635-c81c6bc9a2d8?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/lZenUR45Ka0uO7c92t9P3DQTvuz.jpg"
+    },
+    "tags":"Crime,Chris_Brancato,2017",
+    "description":"Critically acclaimed Crime film directed by Chris Brancato (2017). Rated 8.8\/10."
+  },
+  {
+    "item_id":"mov_0093",
+    "title":"Dark",
+    "primary_genre":"Sci-Fi",
+    "secondary_genre":"Drama",
+    "release_year":2020,
+    "rating":8.7,
+    "director":"Baran bo Odar",
+    "duration_min":167,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1563245372-f21724e3856d?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1529333166437-7750a6dd5a70?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
+    },
+    "tags":"Sci-Fi,Baran_bo_Odar,2020",
+    "description":"Critically acclaimed Sci-Fi film directed by Baran bo Odar (2020). Rated 8.7\/10."
+  },
+  {
+    "item_id":"mov_0094",
+    "title":"Black Mirror",
+    "primary_genre":"Sci-Fi",
+    "secondary_genre":"Drama",
+    "release_year":2023,
+    "rating":8.7,
+    "director":"Charlie Brooker",
+    "duration_min":135,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/fR0VZ0VE598zl1lrYf7IfBqEwQ2.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1509198397868-475647b2a1e5?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1492691527719-9d1e07e534b4?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1511285560929-80b456fea0bc?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/fR0VZ0VE598zl1lrYf7IfBqEwQ2.jpg"
+    },
+    "tags":"Sci-Fi,Charlie_Brooker,2023",
+    "description":"Critically acclaimed Sci-Fi film directed by Charlie Brooker (2023). Rated 8.7\/10."
+  },
+  {
+    "item_id":"mov_0095",
+    "title":"The Queen's Gambit",
+    "primary_genre":"Drama",
+    "secondary_genre":"Thriller",
+    "release_year":2020,
+    "rating":8.5,
+    "director":"Scott Frank",
+    "duration_min":122,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/gKxPyeItCrOscP8On4y5sG3WY9A.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1552519507-da3b142c6e3d?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1594909122845-11baa439b7bf?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1474552226712-ac0f0961a954?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/gKxPyeItCrOscP8On4y5sG3WY9A.jpg"
+    },
+    "tags":"Drama,Scott_Frank,2020",
+    "description":"Critically acclaimed Drama film directed by Scott Frank (2020). Rated 8.5\/10."
+  },
+  {
+    "item_id":"mov_0096",
+    "title":"The Boys",
+    "primary_genre":"Action",
+    "secondary_genre":"Drama",
+    "release_year":2024,
+    "rating":8.7,
+    "director":"Eric Kripke",
+    "duration_min":158,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/nH1lvyQvfbL5GKScTtT6zkIvDEn.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1519074069444-1ba4ea16e60b?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1514565131-fce0801e5785?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1516575334481-f85287c2c82d?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/nH1lvyQvfbL5GKScTtT6zkIvDEn.jpg"
+    },
+    "tags":"Action,Eric_Kripke,2024",
+    "description":"Critically acclaimed Action film directed by Eric Kripke (2024). Rated 8.7\/10."
+  },
+  {
+    "item_id":"mov_0097",
+    "title":"Invincible",
+    "primary_genre":"Animation",
+    "secondary_genre":"Drama",
+    "release_year":2023,
+    "rating":8.7,
+    "director":"Robert Kirkman",
+    "duration_min":145,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/oEaUMn5POAiMLnU6hKOBKoZbDpo.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1533488765986-dfa2a9939acd?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1534528741775-53994a69daeb?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/oEaUMn5POAiMLnU6hKOBKoZbDpo.jpg"
+    },
+    "tags":"Animation,Robert_Kirkman,2023",
+    "description":"Critically acclaimed Animation film directed by Robert Kirkman (2023). Rated 8.7\/10."
+  },
+  {
+    "item_id":"mov_0098",
+    "title":"Beef",
+    "primary_genre":"Comedy",
+    "secondary_genre":"Drama",
+    "release_year":2023,
+    "rating":8.0,
+    "director":"Lee Sung Jin",
+    "duration_min":153,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/jwv71A94ATBDzo18g1a2cJ0qYQB.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1536240478700-b869070f9279?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1492691527719-9d1e07e534b4?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1516589178581-6cd7833ae3b2?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/jwv71A94ATBDzo18g1a2cJ0qYQB.jpg"
+    },
+    "tags":"Comedy,Lee_Sung_Jin,2023",
+    "description":"Critically acclaimed Comedy film directed by Lee Sung Jin (2023). Rated 8.0\/10."
+  },
+  {
+    "item_id":"mov_0099",
+    "title":"The Mandalorian",
+    "primary_genre":"Sci-Fi",
+    "secondary_genre":"Drama",
+    "release_year":2023,
+    "rating":8.6,
+    "director":"Jon Favreau",
+    "duration_min":113,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1541701494587-cb58502866ab?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1594909122845-11baa439b7bf?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1518199266791-5375a83190b7?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg"
+    },
+    "tags":"Sci-Fi,Jon_Favreau,2023",
+    "description":"Critically acclaimed Sci-Fi film directed by Jon Favreau (2023). Rated 8.6\/10."
+  },
+  {
+    "item_id":"mov_0100",
+    "title":"The Batman",
+    "primary_genre":"Action",
+    "secondary_genre":"Drama",
+    "release_year":2022,
+    "rating":7.8,
+    "director":"Matt Reeves",
+    "duration_min":128,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1517457373958-b7bdd4587205?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1514565131-fce0801e5785?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1494774157365-9e04c6720e47?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/74xTEgt7R36Fpooo50r9T25onhq.jpg"
+    },
+    "tags":"Action,Matt_Reeves,2022",
+    "description":"Critically acclaimed Action film directed by Matt Reeves (2022). Rated 7.8\/10."
+  },
+  {
+    "item_id":"mov_0101",
+    "title":"Avatar: The Way of Water",
+    "primary_genre":"Sci-Fi",
+    "secondary_genre":"Drama",
+    "release_year":2022,
+    "rating":7.6,
+    "director":"James Cameron",
+    "duration_min":112,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1568605117036-5fe5e7bab0b7?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1515934751635-c81c6bc9a2d8?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg"
+    },
+    "tags":"Sci-Fi,James_Cameron,2022",
+    "description":"Critically acclaimed Sci-Fi film directed by James Cameron (2022). Rated 7.6\/10."
+  },
+  {
+    "item_id":"mov_0102",
+    "title":"Spider-Man: No Way Home",
+    "primary_genre":"Action",
+    "secondary_genre":"Drama",
+    "release_year":2021,
+    "rating":8.2,
+    "director":"Jon Watts",
+    "duration_min":126,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1534447677768-be436bb09401?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1492691527719-9d1e07e534b4?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1529333166437-7750a6dd5a70?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg"
+    },
+    "tags":"Action,Jon_Watts,2021",
+    "description":"Critically acclaimed Action film directed by Jon Watts (2021). Rated 8.2\/10."
+  },
+  {
+    "item_id":"mov_0103",
+    "title":"Avengers: Infinity War",
+    "primary_genre":"Action",
+    "secondary_genre":"Drama",
+    "release_year":2018,
+    "rating":8.4,
+    "director":"Anthony Russo",
+    "duration_min":166,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1563245372-f21724e3856d?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1594909122845-11baa439b7bf?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1511285560929-80b456fea0bc?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg"
+    },
+    "tags":"Action,Anthony_Russo,2018",
+    "description":"Critically acclaimed Action film directed by Anthony Russo (2018). Rated 8.4\/10."
+  },
+  {
+    "item_id":"mov_0104",
+    "title":"Rogue One: A Star Wars Story",
+    "primary_genre":"Sci-Fi",
+    "secondary_genre":"Drama",
+    "release_year":2016,
+    "rating":7.8,
+    "director":"Gareth Edwards",
+    "duration_min":163,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1509198397868-475647b2a1e5?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1514565131-fce0801e5785?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1474552226712-ac0f0961a954?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg"
+    },
+    "tags":"Sci-Fi,Gareth_Edwards,2016",
+    "description":"Critically acclaimed Sci-Fi film directed by Gareth Edwards (2016). Rated 7.8\/10."
+  },
+  {
+    "item_id":"mov_0105",
+    "title":"The Truman Show",
+    "primary_genre":"Drama",
+    "secondary_genre":"Thriller",
+    "release_year":1998,
+    "rating":8.2,
+    "director":"Peter Weir",
+    "duration_min":128,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1552519507-da3b142c6e3d?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1516575334481-f85287c2c82d?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/vuza0WqY239yBXOadKlGwJsZJFE.jpg"
+    },
+    "tags":"Drama,Peter_Weir,1998",
+    "description":"Critically acclaimed Drama film directed by Peter Weir (1998). Rated 8.2\/10."
+  },
+  {
+    "item_id":"mov_0106",
+    "title":"American Psycho",
+    "primary_genre":"Crime",
+    "secondary_genre":"Drama",
+    "release_year":2000,
+    "rating":7.6,
+    "director":"Mary Harron",
+    "duration_min":169,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1519074069444-1ba4ea16e60b?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1492691527719-9d1e07e534b4?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1534528741775-53994a69daeb?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg"
+    },
+    "tags":"Crime,Mary_Harron,2000",
+    "description":"Critically acclaimed Crime film directed by Mary Harron (2000). Rated 7.6\/10."
+  },
+  {
+    "item_id":"mov_0107",
+    "title":"Memento",
+    "primary_genre":"Mystery",
+    "secondary_genre":"Drama",
+    "release_year":2000,
+    "rating":8.4,
+    "director":"Christopher Nolan",
+    "duration_min":149,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/nzlv62aC0octS5AklAiWpXLX9Z0.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1533488765986-dfa2a9939acd?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1594909122845-11baa439b7bf?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1516589178581-6cd7833ae3b2?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/nzlv62aC0octS5AklAiWpXLX9Z0.jpg"
+    },
+    "tags":"Mystery,Christopher_Nolan,2000",
+    "description":"Critically acclaimed Mystery film directed by Christopher Nolan (2000). Rated 8.4\/10."
+  },
+  {
+    "item_id":"mov_0108",
+    "title":"Donnie Darko",
+    "primary_genre":"Sci-Fi",
+    "secondary_genre":"Drama",
+    "release_year":2001,
+    "rating":8.0,
+    "director":"Richard Kelly",
+    "duration_min":169,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/j2AtZFsflxiluaNtajMTI0Avm8C.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1536240478700-b869070f9279?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1514565131-fce0801e5785?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1518199266791-5375a83190b7?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/j2AtZFsflxiluaNtajMTI0Avm8C.jpg"
+    },
+    "tags":"Sci-Fi,Richard_Kelly,2001",
+    "description":"Critically acclaimed Sci-Fi film directed by Richard Kelly (2001). Rated 8.0\/10."
+  },
+  {
+    "item_id":"mov_0109",
+    "title":"Pan's Labyrinth",
+    "primary_genre":"Fantasy",
+    "secondary_genre":"Drama",
+    "release_year":2006,
+    "rating":8.2,
+    "director":"Guillermo del Toro",
+    "duration_min":146,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/z7xXihu5wHuSMWymq5VAulPVuvg.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1541701494587-cb58502866ab?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1494774157365-9e04c6720e47?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/z7xXihu5wHuSMWymq5VAulPVuvg.jpg"
+    },
+    "tags":"Fantasy,Guillermo_del_Toro,2006",
+    "description":"Critically acclaimed Fantasy film directed by Guillermo del Toro (2006). Rated 8.2\/10."
+  },
+  {
+    "item_id":"mov_0110",
+    "title":"Am\u00e9lie",
+    "primary_genre":"Romance",
+    "secondary_genre":"Drama",
+    "release_year":2001,
+    "rating":8.3,
+    "director":"Jean-Pierre Jeunet",
+    "duration_min":141,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/nSxDa3M9aMvGVLoItzWTepQ5h5d.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1517457373958-b7bdd4587205?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1492691527719-9d1e07e534b4?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1515934751635-c81c6bc9a2d8?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/nSxDa3M9aMvGVLoItzWTepQ5h5d.jpg"
+    },
+    "tags":"Romance,Jean-Pierre_Jeunet,2001",
+    "description":"Critically acclaimed Romance film directed by Jean-Pierre Jeunet (2001). Rated 8.3\/10."
+  },
+  {
+    "item_id":"mov_0111",
+    "title":"2001: A Space Odyssey",
+    "primary_genre":"Sci-Fi",
+    "secondary_genre":"Drama",
+    "release_year":1968,
+    "rating":8.3,
+    "director":"Stanley Kubrick",
+    "duration_min":123,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1568605117036-5fe5e7bab0b7?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1594909122845-11baa439b7bf?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1529333166437-7750a6dd5a70?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg"
+    },
+    "tags":"Sci-Fi,Stanley_Kubrick,1968",
+    "description":"Critically acclaimed Sci-Fi film directed by Stanley Kubrick (1968). Rated 8.3\/10."
+  },
+  {
+    "item_id":"mov_0112",
+    "title":"Apocalypse Now",
+    "primary_genre":"War",
+    "secondary_genre":"Drama",
+    "release_year":1979,
+    "rating":8.4,
+    "director":"Francis Ford Coppola",
+    "duration_min":112,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1534447677768-be436bb09401?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1514565131-fce0801e5785?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1511285560929-80b456fea0bc?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg"
+    },
+    "tags":"War,Francis_Ford_Coppola,1979",
+    "description":"Critically acclaimed War film directed by Francis Ford Coppola (1979). Rated 8.4\/10."
+  },
+  {
+    "item_id":"mov_0113",
+    "title":"Casablanca",
+    "primary_genre":"Romance",
+    "secondary_genre":"Drama",
+    "release_year":1942,
+    "rating":8.5,
+    "director":"Michael Curtiz",
+    "duration_min":160,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1563245372-f21724e3856d?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1474552226712-ac0f0961a954?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg"
+    },
+    "tags":"Romance,Michael_Curtiz,1942",
+    "description":"Critically acclaimed Romance film directed by Michael Curtiz (1942). Rated 8.5\/10."
+  },
+  {
+    "item_id":"mov_0114",
+    "title":"Psycho",
+    "primary_genre":"Horror",
+    "secondary_genre":"Drama",
+    "release_year":1960,
+    "rating":8.5,
+    "director":"Alfred Hitchcock",
+    "duration_min":158,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1509198397868-475647b2a1e5?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1492691527719-9d1e07e534b4?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1516575334481-f85287c2c82d?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg"
+    },
+    "tags":"Horror,Alfred_Hitchcock,1960",
+    "description":"Critically acclaimed Horror film directed by Alfred Hitchcock (1960). Rated 8.5\/10."
+  },
+  {
+    "item_id":"mov_0115",
+    "title":"Rear Window",
+    "primary_genre":"Mystery",
+    "secondary_genre":"Drama",
+    "release_year":1954,
+    "rating":8.5,
+    "director":"Alfred Hitchcock",
+    "duration_min":106,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/ILVF0eJxHMddjxeQhswFtpMtqx.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1552519507-da3b142c6e3d?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1594909122845-11baa439b7bf?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1534528741775-53994a69daeb?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/ILVF0eJxHMddjxeQhswFtpMtqx.jpg"
+    },
+    "tags":"Mystery,Alfred_Hitchcock,1954",
+    "description":"Critically acclaimed Mystery film directed by Alfred Hitchcock (1954). Rated 8.5\/10."
+  },
+  {
+    "item_id":"mov_0116",
+    "title":"12 Angry Men",
+    "primary_genre":"Drama",
+    "secondary_genre":"Thriller",
+    "release_year":1957,
+    "rating":9.0,
+    "director":"Sidney Lumet",
+    "duration_min":101,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/zhG3vKWyDRaZYoaww1UVAi29T9h.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1519074069444-1ba4ea16e60b?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1514565131-fce0801e5785?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1516589178581-6cd7833ae3b2?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/zhG3vKWyDRaZYoaww1UVAi29T9h.jpg"
+    },
+    "tags":"Drama,Sidney_Lumet,1957",
+    "description":"Critically acclaimed Drama film directed by Sidney Lumet (1957). Rated 9.0\/10."
+  },
+  {
+    "item_id":"mov_0117",
+    "title":"The Pianist",
+    "primary_genre":"Drama",
+    "secondary_genre":"Thriller",
+    "release_year":2002,
+    "rating":8.5,
+    "director":"Roman Polanski",
+    "duration_min":109,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/2hFvxCCWrTmCYwfy7yum0GKRi3Y.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1533488765986-dfa2a9939acd?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1518199266791-5375a83190b7?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/2hFvxCCWrTmCYwfy7yum0GKRi3Y.jpg"
+    },
+    "tags":"Drama,Roman_Polanski,2002",
+    "description":"Critically acclaimed Drama film directed by Roman Polanski (2002). Rated 8.5\/10."
+  },
+  {
+    "item_id":"mov_0118",
+    "title":"Trainspotting",
+    "primary_genre":"Drama",
+    "secondary_genre":"Thriller",
+    "release_year":1996,
+    "rating":8.1,
+    "director":"Danny Boyle",
+    "duration_min":114,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/1jUC02qsqS2NxBMFarbIhcQtazV.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1536240478700-b869070f9279?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1492691527719-9d1e07e534b4?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1494774157365-9e04c6720e47?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/1jUC02qsqS2NxBMFarbIhcQtazV.jpg"
+    },
+    "tags":"Drama,Danny_Boyle,1996",
+    "description":"Critically acclaimed Drama film directed by Danny Boyle (1996). Rated 8.1\/10."
+  },
+  {
+    "item_id":"mov_0119",
+    "title":"Catch Me If You Can",
+    "primary_genre":"Crime",
+    "secondary_genre":"Drama",
+    "release_year":2002,
+    "rating":8.1,
+    "director":"Steven Spielberg",
+    "duration_min":175,
+    "thumbnail_url":"https:\/\/image.tmdb.org\/t\/p\/w500\/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1541701494587-cb58502866ab?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1594909122845-11baa439b7bf?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1515934751635-c81c6bc9a2d8?w=600&q=80",
+      "variant_cinematic":"https:\/\/image.tmdb.org\/t\/p\/w500\/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg"
+    },
+    "tags":"Crime,Steven_Spielberg,2002",
+    "description":"Critically acclaimed Crime film directed by Steven Spielberg (2002). Rated 8.1\/10."
+  },
+  {
+    "item_id":"mov_0120",
+    "title":"Action Masterpiece #1",
+    "primary_genre":"Action",
+    "secondary_genre":"Drama",
+    "release_year":2025,
+    "rating":8.7,
+    "director":"Acclaimed Director",
+    "duration_min":171,
+    "thumbnail_url":"https:\/\/images.unsplash.com\/photo-1533488765986-dfa2a9939acd?w=600&q=80",
+    "artwork_variants":{
+      "variant_action":"https:\/\/images.unsplash.com\/photo-1517457373958-b7bdd4587205?w=600&q=80",
+      "variant_character":"https:\/\/images.unsplash.com\/photo-1514565131-fce0801e5785?w=600&q=80",
+      "variant_romantic":"https:\/\/images.unsplash.com\/photo-1529333166437-7750a6dd5a70?w=600&q=80",
+      "variant_cinematic":"https:\/\/images.unsplash.com\/photo-1533488765986-dfa2a9939acd?w=600&q=80"
+    },
+    "tags":"Action,Acclaimed_Director,2025",
+    "description":"Critically acclaimed Action film directed by Acclaimed Director (2025). Rated 8.7\/10."
+  }
+]
