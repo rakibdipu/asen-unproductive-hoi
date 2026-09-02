@@ -121,6 +121,22 @@ No Python or Node.js required!
 
 ---
 
+### Option 4: Docker & Docker Compose (Containerized)
+Run the full platform containerized in isolated environments with a single command:
+
+```bash
+docker-compose up --build
+```
+- Frontend UI: **[http://localhost:5173](http://localhost:5173)**
+- Backend API: **[http://localhost:8000](http://localhost:8000)**
+
+---
+
+### Option 5: Windows One-Click Launcher (`run.bat`)
+On Windows, simply **double-click `run.bat`**! It will automatically launch both the FastAPI backend and Vite frontend in dedicated terminal windows and open your default browser directly to `http://localhost:5173`.
+
+---
+
 ## 🔌 REST API Endpoints Reference
 
 | Method | Endpoint | Description |
