@@ -181,6 +181,19 @@ asen-unproductive-hoi/
 
 ---
 
+## 👨‍💻 Author & Developer
+
+<p align="left">
+  <b>MD. RaKib Hassan Dipu</b><br>
+  🔗 <b>GitHub:</b> <a href="https://github.com/rakibdipu">@rakibdipu</a><br>
+  🌐 <b>Portfolio:</b> <a href="https://rakibdipu.github.io">rakibdipu.github.io</a><br>
+  🚀 <b>Project Repo:</b> <a href="https://github.com/rakibdipu/asen-unproductive-hoi">asen-unproductive-hoi</a>
+</p>
+
+> *"Building high-fidelity machine learning architectures with passion, precision, and a healthy dose of procrastination."*
+
+---
+
 ## 📜 License
 
 This project is licensed under the **MIT License** — feel free to use it for research, educational demos, or building your own recommendation engines.
